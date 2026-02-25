@@ -53,6 +53,9 @@
   </p>
 </div>
 
+*Please note, this project is no longer maintained by myself except for major
+exploits due to lack of time. Pull Requests are welcome.*
+
 <!-- ABOUT THE PROJECT -->
 ## Features
 

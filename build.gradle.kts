@@ -33,7 +33,7 @@ sourceSets["main"].resources.srcDir("src/resources/")
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
+        languageVersion = JavaLanguageVersion.of(25)
     }
 }
 

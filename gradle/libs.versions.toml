@@ -11,7 +11,7 @@ yaml = "1.8.5"
 snakeyaml = "1.33"
 mysql = "8.0.33"
 maria = "3.5.9"
-sqlite = "3.45.2.0"
+sqlite = "3.53.2.1"
 postgresql = "42.7.13"
 hikari = "5.1.0"
 

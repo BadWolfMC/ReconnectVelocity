@@ -13,7 +13,7 @@ mysql = "8.0.33"
 maria = "3.5.9"
 sqlite = "3.45.2.0"
 postgresql = "42.7.13"
-hikari = "5.1.0"
+hikari = "7.1.0"
 
 [libraries]
 

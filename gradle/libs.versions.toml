@@ -12,7 +12,7 @@ snakeyaml = "1.33"
 mysql = "8.0.33"
 maria = "3.3.3"
 sqlite = "3.45.2.0"
-postgresql = "42.7.3"
+postgresql = "42.7.13"
 hikari = "5.1.0"
 
 [libraries]

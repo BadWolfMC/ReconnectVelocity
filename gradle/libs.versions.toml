@@ -1,6 +1,6 @@
 [versions]
 
-updateVersions = "0.51.0"
+updateVersions = "0.54.0"
 shadow = "8.1.8"
 velocity= "4.1.0-SNAPSHOT"
 runPaper = "2.2.4"

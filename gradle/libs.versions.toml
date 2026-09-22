@@ -4,7 +4,7 @@ updateVersions = "0.51.0"
 shadow = "8.1.8"
 velocity= "4.1.0-SNAPSHOT"
 runPaper = "2.2.4"
-litebans = "0.5.0"
+litebans = "0.6.1"
 luckperms = "5.4"
 
 yaml = "1.8.5"

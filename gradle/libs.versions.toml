@@ -8,7 +8,7 @@ litebans = "0.6.1"
 luckperms = "5.5"
 
 yaml = "1.8.5"
-snakeyaml = "2.6"
+snakeyaml = "2.7"
 mysql = "8.0.33"
 maria = "3.5.9"
 sqlite = "3.53.2.1"
